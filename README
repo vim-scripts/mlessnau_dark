@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4643
+
+This 256 color scheme is inspired by the color scheme used by railscasts.
+
+It does work in 256-color terminals (export TERM=screen-256color) but results may differ when using it in gvim.
+
+It is optimized for vimdiff, ruby, javascript, php, c/c++, sh and HTML. It has some tweaks for NERD_tree as well.
+
+Enjoy :)
